@@ -1,6 +1,7 @@
 # Reccomendation-System_Movie-Lens-100k
 
-Content-based and Collaborative Filtering for Recommendation System
+1. Content-based and Collaborative Filtering for Recommendation System
+2. Neighbour-based Recommendation System
 
 Dataset: https://grouplens.org/datasets/movielens/100k/
 Important files:
